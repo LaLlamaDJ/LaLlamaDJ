@@ -1,0 +1,6 @@
+- 👋 Hola!, Me llamo Matteo.
+- 👀 Quiero aprender a programar
+- 🌱 Estoy aprendiendo JavaScript & Python
+- 💞️ Quiero ayudar en lo que pueda
+- 📫 Tengo 12 años
+- 💕 No al c&p
