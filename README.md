@@ -5,7 +5,7 @@
 -->
 
 - 👀 Quiero aprender a programar
-- 🌱 Estoy aprendiendo JavaScript & Python
+- 🌱 Estoy aprendiendo HTML, CSS, JavaScript & Python
 - 💞️ Quiero ayudar en lo que pueda
 - 📫 Tengo 13 años
 
