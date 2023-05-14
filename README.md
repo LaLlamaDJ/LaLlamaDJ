@@ -7,7 +7,7 @@
 - 👀 Quiero aprender a programar
 - 🌱 Estoy aprendiendo HTML, CSS, JavaScript & Python
 - 💞️ Quiero ayudar en lo que pueda
-- 📫 Tengo 13 años
+- 📫 Tengo 14 años
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lallamadj&label=Profile%20views&color=0e75b6&style=flat" alt="lallamadj" /> </p>
 
